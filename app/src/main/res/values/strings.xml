@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Proyecto05</string>
+    <string-array name="paises">
+        <item>Argentina</item>
+        <item>Chile</item>
+        <item>Paraguay</item>
+        <item>Uruguay</item>
+        <item>Bolivia</item>
+        <item>Perú</item>
+        <item>Brasil</item>
+        <item>Colombia</item>
+        <item>Venezuela</item>
+        <item>México</item>
+    </string-array>
+    <string-array name="poblacion">
+        <item>Población Argentina: 46.04 millones</item>
+        <item>Población Chile: 19.60 millones</item>
+        <item>Población Paraguay: 6.78 millones</item>
+        <item>Población Uruguay: 3.42 millones</item>
+        <item>Población Bolivia: 12.22 millones</item>
+        <item>Población Perú: 34.05 millones</item>
+        <item>Población Brasil: 215.31 millones</item>
+        <item>Población Colombia: 51.87 millones</item>
+        <item>Población Venezuela: 28.30 millones</item>
+        <item>Población México: 128.46 millones</item>
+    </string-array>
+</resources>
